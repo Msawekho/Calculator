@@ -44,16 +44,9 @@ The `CalculatorTest` class contains unit tests for the methods in the `Main` cla
 2. Make sure JUnit 5 is configured.
 3. Run the `CalculatorTest` class to execute the tests.
 
-## Example Usage
+## Tests
 
-Here's an example of how to use the `add` and `multiply` methods:
+Here's screenshot of passed test cases :
+![Test](https://github.com/user-attachments/assets/66944666-9cc2-4b91-a92f-8177c78983f5)
 
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println(add(15, 15)); // Output: 30
-        System.out.println(add(1, 2, 3, 4, 5)); // Output: 15
-        System.out.println(multiply(2, 4)); // Output: 8
-        System.out.println(multiply(-1, 3)); // Output: -3
-    }
-}
+
